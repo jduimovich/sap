@@ -35,7 +35,7 @@ spec:
     kind: SealedSecret
   project: default
   source:
-    path: config\cicd\overlays
+    path: config/cicd/overlays
     repoURL: https://github.com/jduimovich/sap.git
   syncPolicy:
     automated:

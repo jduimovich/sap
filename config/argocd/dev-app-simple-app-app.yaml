@@ -12,7 +12,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: environments\dev\apps\app-simple-app\overlays
+    path: environments/dev/apps/app-simple-app/overlays
     repoURL: https://github.com/jduimovich/sap.git
   syncPolicy:
     automated:

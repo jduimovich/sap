@@ -1,2 +1,2 @@
 bases:
-- ..\services\simple-app
+- ../services/simple-app

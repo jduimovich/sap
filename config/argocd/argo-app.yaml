@@ -35,7 +35,7 @@ spec:
     kind: SealedSecret
   project: default
   source:
-    path: config\argocd
+    path: config/argocd
     repoURL: https://github.com/jduimovich/sap.git
   syncPolicy:
     automated:
